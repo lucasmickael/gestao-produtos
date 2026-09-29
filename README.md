@@ -1,8 +1,8 @@
 # Cadastro de Produtos — MVC
 
 ## Integrante
-**Nome:** [Seu Nome Aqui]
-**RM:** [Seu RM Aqui]
+**Nome:** Lucas Mickael Silva Lima
+**RM:** 20240370
 
 ## Como executar
 1. Instale as dependências:
